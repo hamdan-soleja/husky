@@ -1,0 +1,42 @@
+#image
+{
+object-position: 100px -300px;
+
+}
+.text
+{
+  position: absolute;
+  bottom: -10%;
+  left: 40%;
+color: white;
+}
+.bgdark
+{
+  background-color: black;
+}
+.welcome
+{
+
+
+  color: white;
+  font-size: 200px;
+  text-align: center;
+}
+.icon
+{
+  color: white;
+  height:40%;
+  width : 40%;
+  border-radius: 10px;
+  position: relative;
+  bottom: 80%;
+}
+h2{
+  color: white;
+}
+.h
+{
+  background-color: white;
+  position: relative;
+  top: 60%;
+}
