@@ -3,33 +3,56 @@
 object-position: 100px -300px;
 
 }
+.im{
+  height: 200px;
+
+
+  width :300px;
+  border-radius: 20px;
+  position: relative;
+  left: 20px
+
+}
+.navbar
+{
+  background-color: #E0DDAA;
+  border-radius: 10px;
+
+}
 .text
 {
-  position: absolute;
-  bottom: -10%;
-  left: 40%;
+  position: relative;
+  top: 1000px;
+  align-content: center;
 color: white;
 }
 .bgdark
 {
   background-color: black;
 }
+div.col
+{
+  position: relative;
+  bottom: 30%;
+
+}
 .welcome
 {
 
 
-  color: white;
-  font-size: 200px;
-  text-align: center;
+  font-style: bold;
+  font-size: 100px;
+position: absolute;
+left: 500px;
 }
 .icon
 {
   color: white;
-  height:40%;
-  width : 40%;
+  height:200px;
+  width : 200px;
   border-radius: 10px;
   position: relative;
-  bottom: 80%;
+  top: 700px;
 }
 h2{
   color: white;
@@ -40,3 +63,11 @@ h2{
   position: relative;
   top: 60%;
 }
+.text2
+{
+  position: relative;
+  bottom:  1000px;
+left: 400px;
+}
+.position-nav
+{top: 1200px;}
