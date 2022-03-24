@@ -15,11 +15,12 @@ object-position: 100px -300px;
 }
 .navbar
 {
-  background-color: #E0DDAA;
-  border-radius: 10px;
+ background: linear-gradient(to right, #E0DDAA, black); ;
+
   height: 300px;
 
 }
+h1{color: white;}
 .text
 {
   position: relative;
@@ -73,3 +74,23 @@ left: 400px;
 }
 .position-nav
 {top: 1200px;}
+
+.acc:hover
+{
+  height: 310px;
+  width:310px;
+}
+.acc
+{
+  color: white;
+  height:300px;
+  width : 300px;
+  border-radius: 15px;
+  position: relative;
+  top: 500px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+
+}
